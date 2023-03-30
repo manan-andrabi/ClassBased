@@ -1,0 +1,15 @@
+C:\Users\syed_\source\repos\ClassBased\ClassBased\bin\Debug\net7.0\ClassBased.exe
+C:\Users\syed_\source\repos\ClassBased\ClassBased\bin\Debug\net7.0\ClassBased.deps.json
+C:\Users\syed_\source\repos\ClassBased\ClassBased\bin\Debug\net7.0\ClassBased.runtimeconfig.json
+C:\Users\syed_\source\repos\ClassBased\ClassBased\bin\Debug\net7.0\ClassBased.dll
+C:\Users\syed_\source\repos\ClassBased\ClassBased\bin\Debug\net7.0\ClassBased.pdb
+C:\Users\syed_\source\repos\ClassBased\ClassBased\obj\Debug\net7.0\ClassBased.csproj.AssemblyReference.cache
+C:\Users\syed_\source\repos\ClassBased\ClassBased\obj\Debug\net7.0\ClassBased.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\syed_\source\repos\ClassBased\ClassBased\obj\Debug\net7.0\ClassBased.AssemblyInfoInputs.cache
+C:\Users\syed_\source\repos\ClassBased\ClassBased\obj\Debug\net7.0\ClassBased.AssemblyInfo.cs
+C:\Users\syed_\source\repos\ClassBased\ClassBased\obj\Debug\net7.0\ClassBased.csproj.CoreCompileInputs.cache
+C:\Users\syed_\source\repos\ClassBased\ClassBased\obj\Debug\net7.0\ClassBased.dll
+C:\Users\syed_\source\repos\ClassBased\ClassBased\obj\Debug\net7.0\refint\ClassBased.dll
+C:\Users\syed_\source\repos\ClassBased\ClassBased\obj\Debug\net7.0\ClassBased.pdb
+C:\Users\syed_\source\repos\ClassBased\ClassBased\obj\Debug\net7.0\ClassBased.genruntimeconfig.cache
+C:\Users\syed_\source\repos\ClassBased\ClassBased\obj\Debug\net7.0\ref\ClassBased.dll
